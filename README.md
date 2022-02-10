@@ -6,7 +6,7 @@ pkg install php
 
 pkg install git
 
-git clone 
+git clone https://github.com/Hunterboy111/YTSUB.git
 
 cd YTSUB
 
